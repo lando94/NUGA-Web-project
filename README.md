@@ -1,3 +1,4 @@
+
 # NUGA README
 
 ## 1. 프로젝트 소개
@@ -125,8 +126,7 @@ Chrome 사용을 권장합니다.
 - Vuertify의 v-card를 이용하여, 인기순으로 상품들이 카드형식으로 정렬되어 있다. 
 - 회원과 비회원을 분기하여 My Page 메뉴를 다르게 안내한다.
 
-![image-20200731062441977](Nuga README.assets/image-20200731062441977.png)
-
+![image-20200731062441977](https://user-images.githubusercontent.com/18139577/114302451-091cf800-9b04-11eb-8c1d-eced70bbcfe6.png)
 
 
 #### 2. 회원가입 페이지
