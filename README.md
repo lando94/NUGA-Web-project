@@ -1,4 +1,5 @@
 
+
 # NUGA README
 
 ## 1. 프로젝트 소개
@@ -112,6 +113,9 @@ Chrome 사용을 권장합니다.
 
 
 
+##### ERD
+![ERD_20210410_193056943](https://user-images.githubusercontent.com/18139577/114302618-c90a4500-9b04-11eb-8936-d657cc7993ac.png)
+
 
 
 ## 3. 서비스 설명
@@ -139,10 +143,9 @@ Chrome 사용을 권장합니다.
   - 특수문자를 하나 이상 포함해야 한다.
   - 영문 대문자를 하나 이상 포함해야 한다.
 
-![image-20200731062629497](Nuga README.assets/image-20200731062629497.png)
+![image-20200731062629497](https://user-images.githubusercontent.com/18139577/114302487-3e294a80-9b04-11eb-938a-c39b5ba9f4c2.png)
 
-![image-20200731062637845](Nuga README.assets/image-20200731062637845.png)
-
+![image-20200731062637845](https://user-images.githubusercontent.com/18139577/114302496-471a1c00-9b04-11eb-8280-a3e818645d06.png)
 
 
 #### 3. 로그인 페이지
@@ -150,17 +153,16 @@ Chrome 사용을 권장합니다.
 - 로그인 성공 시 환영 메세지가 팝업 된다.
 - 로그인 시 My Page에 회원 정보가 반영 되며 보유 마일리지가 표시 된다.
 
-![image-20200731062558222](Nuga README.assets/image-20200731062558222.png)
+![image-20200731062558222](https://user-images.githubusercontent.com/18139577/114302515-62852700-9b04-11eb-9aca-cbd35fa9f9be.png)
 
-![image-20200731062700065](Nuga README.assets/image-20200731062700065.png)
+![image-20200731062700065](https://user-images.githubusercontent.com/18139577/114302526-6ca72580-9b04-11eb-8b51-b60a828c1c3a.png)
 
 
 
 #### 4. 비밀번호 변경 페이지
 
 - 회원가입 시 적용된 동일한 기준으로 비밀번호를 재설정 할 수 있다.
-
-![image-20200731062707447](Nuga README.assets/image-20200731062707447.png)
+![image-20200731062707447](https://user-images.githubusercontent.com/18139577/114302536-76308d80-9b04-11eb-8fec-34938b5bebd8.png)
 
 
 
@@ -170,7 +172,7 @@ Chrome 사용을 권장합니다.
   - 썸네일 이미지 우측 하단에 하트를 클릭하여 찜하기 기능을 사용할 수 있다.
   - 활성화 된 하트를 다시 클릭하면 하트가 비활성화 되며, 관심상품에서 제외 할 수 있다.
 
-![image-20200731062714916](Nuga README.assets/image-20200731062714916.png)
+![image-20200731062714916](https://user-images.githubusercontent.com/18139577/114302540-7d579b80-9b04-11eb-8886-2311a58be7f8.png)
 
 
 
@@ -182,18 +184,14 @@ Chrome 사용을 권장합니다.
   - 제품 상태를 1~5단계로 세분화 하여 판매하는 제품의 상태를 나타낼 수 있다.
   - 기타 제품에 대한 상태, 거래 방식, 거래 조건 등에 대해 상세 설명을 통해 부연할 수 있다.
 
-![image-20200731062723783](Nuga README.assets/image-20200731062723783.png)
+![image-20200731062723783](https://user-images.githubusercontent.com/18139577/114302549-86e10380-9b04-11eb-8773-a796942a51f2.png)
 
 
 
 #### 7. 컨택트 작성 페이지
 
 - 개발 및 운영에 관해서 언제든 문의주세용! :slightly_smiling_face: 
-
-![image-20200731062731222](Nuga README.assets/image-20200731062731222.png)
-
-
-
+![image-20200731062731222](https://user-images.githubusercontent.com/18139577/114302566-8e081180-9b04-11eb-9c38-ce16b28baa05.png)
 
 
 ## 4. Contributing
